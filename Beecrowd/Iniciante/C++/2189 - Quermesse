@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int N, bilhete, j = 1; 
+    
+    do{
+        cin >> N;
+
+        if (N >= 1){
+     
+            cout << "Teste " << j++ << endl;
+
+            for (int i = 1; i < N + 1; i++){
+
+              cin >> bilhete;
+
+                if (bilhete == i){
+                    cout << i << endl;
+                }
+            }
+            cout << endl;
+        }
+    } while(N != 0);
+
+  return 0;
+}

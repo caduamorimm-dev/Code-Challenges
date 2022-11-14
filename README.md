@@ -1,2 +1,2 @@
-# Code-Challenges
-Documentação dos códigos submetidos nas diversas plataformas que utilizo para práticar. 
+# Code Challenges
+Documentação dos códigos submetidos nas plataformas que utilizo para práticar. 

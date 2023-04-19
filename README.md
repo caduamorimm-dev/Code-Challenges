@@ -14,7 +14,7 @@
 
 - [OBI - Olimpiada brasileira de informatica](https://olimpiada.ic.unicamp.br/pratique/pj/) <br>
 - [BEECROWD](https://www.beecrowd.com.br) <br>
-- [https://codeforces.com) <br>
+- [CodeForces](https://codeforces.com) <br>
 
 
 
